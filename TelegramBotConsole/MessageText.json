@@ -1,0 +1,28 @@
+{
+    "Priority":
+    [
+        "Az", "Orta", "Yüksek", "Çok Acil"
+    ],
+    "Photo":
+    [
+        "Var", "Yok"
+    ],
+    "Email":
+    [
+        "Evet","Hayır"
+    ],
+    "QuestionText":
+    {   
+        "Description": "Lütfen sorunuzu tek mesaj halinde detaylı şekilde açıklayınız",
+        "Priority": "Lütfen önceliği seçiniz",
+        "Photo" : "Sorunun ekran görüntüsü var mı ?",
+        "Email" : "Sorunuz Umut'a email ile bilgilendirilsin mi ?"
+    },
+    "Information":
+    {
+        "Welcome": "Merhaba, HopeStackoverflow'a hoşgeldiniz.",
+        "Success": "Soru talebiniz başarıyla alınmıştır. En yakın sürede geri dönüş yapılacaktır.",
+        "Error": "Hata oluştu lütfen daha sonra tekrar deneyin",
+        "ReachedDailyLimit":"Günlük soru sorma limitine ulaştınız. Yarın yine bekleriz.."
+    }
+}

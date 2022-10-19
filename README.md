@@ -10,7 +10,4 @@ You should edit some steps to run.
 
 For detail information please visit my blog..
 
-http://kahramanumut.com/net-core-uzerinde-telegram-bot-uygulamasi/
-
 ![alt text](https://github.com/kahramanumut/HopeTelegramBot/blob/master/BotSample.gif)
-
